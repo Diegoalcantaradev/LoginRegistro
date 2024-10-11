@@ -1,0 +1,20 @@
+#form-login{
+    display: flex;
+    flex-direction: column;
+}
+#form-register{
+    display: flex;
+    flex-direction: column;
+}
+#input-email{
+    width: 200px
+}
+#input-password{
+    width: 200px;
+}
+button{
+    width: 207px;
+}
+#input-name{
+    width: 200px;
+}
